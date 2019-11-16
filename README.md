@@ -17,3 +17,5 @@ Bootstrap - Framework
 JavaScript
 jQuery - JavaScript Library
 giphy API
+
+Webpage: https://lienaquesada.github.io/GifTastic/.
